@@ -1,0 +1,8 @@
+------------Memory--------------
+
+
+"Memory" is a game with questions
+purpose:you have to answer all the questions correctly
+the game have 14 questions
+if you answer wrong, you just restart the question
+have fun
